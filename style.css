@@ -28,12 +28,12 @@ body {
     font-family: "arial", sans-serif;
     text-align: center;
 }
-.bouton{
-    border-radius:12px 0 12px 0;
-    background: #f5f5f5;
-    border:none;
+.boutton {
+    width:85px;
+    height:85px;
+    background:#fafafa;
+    box-shadow:2px 2px 8px #aaa;
+    font:bold 13px Arial;
+    border-radius:50%;
     color:#555;
-    font:bold 12px Verdana;
-    padding:6px 0 6px 0;
-    box-shadow:1px 1px 3px #999;
 }

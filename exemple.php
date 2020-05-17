@@ -35,7 +35,7 @@
     <span class="dot" onclick="currentSlide(2)"></span>
     <span class="dot" onclick="currentSlide(3)"></span>
 </div>
-<a href="simu.php"> Retour </a>
+<a href="simu.php" class="boutton"> Retour </a>
 
 
 <script language="javascript"> var slideIndex = 1;
