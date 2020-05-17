@@ -17,9 +17,9 @@
 <canvas id = "schema" height="1000" width="1000" style="border:1px solid">
 
 </canvas>
-<a href="exemple.php">Exemples </a>
+<a href="exemple.php" class="bouton">Exemples </a>
 <br><br>
-
+<a href="simuinv.php" class="bouton">Simultion inverse </a>
 </body>
 </html>
 
