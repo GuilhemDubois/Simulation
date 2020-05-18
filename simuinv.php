@@ -15,7 +15,7 @@
 
 <a href="exemple.php" class="bouton">Exemples </a>
 <br><br>
-<a href="simu.php" class="bouton">Simultion normale</a>
+<a href="index.php" class="bouton">Simultion normale</a>
 </body>
 <br><br>
 </html>
